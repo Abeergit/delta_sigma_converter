@@ -10,3 +10,9 @@ sich daher prinzipiell in drei unterschiedliche Verfahren kategorisieren. Hierbe
 zwischen Wandlern nach Wiegeverfahren, Zählverfahren und Parallelverfahren unterschieden.
 Die einzelnen Verfahren unterscheiden sich dabei jeweils im Hinblick auf die
 charakteristischen Nennwerte wie Genauigkeit oder Wandlungsgeschwindigkeit.
+### Module
+- BCD Decoder 
+- Clock Divider
+- Counter
+- D-Flipflop
+- Frequency Counter
